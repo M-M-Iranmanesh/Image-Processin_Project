@@ -1,3 +1,3 @@
 محمدمهدی ایرانمنش
 98327002
-مثال 2.8 درس پردازش تصویر
+image quanttization use by K-Means
